@@ -1,0 +1,17 @@
+@font-face	{
+	font-family: HelveticaNeue;
+	src: url(fonts/HelveticaNeueLTStdLt.otf);
+	src: url(fonts/HelveticaNeueLTStdLt.otf?#iefix) format(opentype);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face	{
+	font-family: PFDinTextCompPro;
+	src: url(fonts/PFDinTextCompPro.ttf);
+	src: url(fonts/PFDinTextCompPro.ttf?#iefix) format(truetype);
+	font-weight: bold;
+	font-style: italic;
+}
+
+
